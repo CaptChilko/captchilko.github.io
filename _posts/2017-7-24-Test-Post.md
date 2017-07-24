@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Testing Some Stuff
-
 So I heard it might be good to have a blog, _you know_, to show employers that I can think and stuff.
 This is really just a test to tr y out markdown, and to see how Jekyll Works. So far I think it's working.
 
@@ -13,7 +11,7 @@ This is really just a test to tr y out markdown, and to see how Jekyll Works. So
 - **Python** - Don't know it yet but feel like it'd be a good one to get under my belt
 
 How about an image?:
-![Should be a duck here]({{site.baseurl}}/http://i.imgur.com/NYwSoYp.jpg)
+![Should be a duck here](http://i.imgur.com/NYwSoYp.jpg)
 
 Maybe some code?
 
