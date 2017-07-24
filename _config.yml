@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jasper Kueppers
+name: Jasper Chilko Kueppers
 
 # Short bio or description (displayed in the header)
 description: Engineering Student based in Wellington, NZ
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: captchilko
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UC7uC2DvOevPwF-CqV1hd5gA
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: captchilko.github.io
+url: chilko.me
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
