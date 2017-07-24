@@ -2,14 +2,17 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### About me
+
+I'm a engineering student based in Wellington, majoring in Electronics and Computer Systems. I'm interested in many things surrounding electronics, particularly racing drones. 
+
+In my spare time I also enjoy to sail, amongst other things.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jasperkuepeprs@gmail.com.com](mailto:jasperkuepeprs@gmail.com.com)
