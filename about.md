@@ -15,4 +15,4 @@ In my spare time I also enjoy to sail, amongst other things.
 
 ### Contact me
 
-[jasperkuepeprs@gmail.com.com](mailto:jasperkuepeprs@gmail.com.com)
+[jasperkueppers@gmail.com.com](mailto:jasperkueppers@gmail.com.com)
