@@ -1,3 +1,10 @@
+---
+layout: page
+title:
+permalink: /parents/
+published: true
+---
+
 ### Re-Wedding
 
 When I was just over 4 months old, we got married. Mum, dad, and I, wearing my blueberry hat. Today, 20 years later, nearly 20,000 km away, it's my brother's turn to be part of the wedding. 
