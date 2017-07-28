@@ -17,7 +17,7 @@ avatar: https://pbs.twimg.com/profile_images/1140018803/jk_400x400.PNG
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: ##
   email: jasperkueppers@gmail.com
   facebook: 
   flickr:
